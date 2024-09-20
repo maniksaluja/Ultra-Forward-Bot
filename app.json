@@ -8,22 +8,22 @@
   "env": {
       "API_ID": {
           "description": "Your APP ID From my.telegram.org ",
-          "value": "",
+          "value": "29321225",
           "required": true
       },
       "API_HASH": {
           "description": "Your API Hash From my.telegram.org ",
-          "value": "",
+          "value": "9af2b4ce5315e0222d0b30eba7b0905d",
           "required": true
       },
       "BOT_TOKEN": {
           "description": "Your Bot Token From @BotFather",
-          "value": "",
+          "value": "7488845217:AAHGbJtg4GJ3a4wIDF0Z9a4nJmjT-JRR440",
           "required": true
       },
       "OWNER_ID": {
           "description":"Add Your User ID multiple is use space to split",
-          "value": "",
+          "value": "6604279354",
           "required": true
       },
       "BOT_SESSION": {
